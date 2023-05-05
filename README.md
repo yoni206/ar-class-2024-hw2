@@ -1,5 +1,5 @@
-# HW 1
-The tasks for this HW are found in hw1.pdf.
+# HW 2
+The tasks for this HW are found in hw2.pdf.
 
 ## Details about Question 1
 ### How to implement?
