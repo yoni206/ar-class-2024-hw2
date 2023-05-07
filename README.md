@@ -15,8 +15,8 @@ This is how your implementation should be called:
 python3 sat_solver.py <path-to-cnf> <algorithm>
 ```
 where:
-- <path-to-cnf> is a path to a cnf file
-- <algorithm> is either "naive" or "dpll"
+- `<path-to-cnf>` is a path to a cnf file
+- `<algorithm>` is either "naive" or "dpll"
 
 For example:
 ```
